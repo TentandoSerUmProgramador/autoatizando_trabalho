@@ -1,0 +1,1 @@
+ERRO: [cannot access local variable 'NOME_CAMARAS' where it is not associated with a value] HORA: 2024-05-19_17-38-11
